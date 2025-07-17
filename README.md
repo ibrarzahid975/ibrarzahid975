@@ -1,6 +1,6 @@
 
-### Hi there, I'm Ibrar! 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00A4FF&background=FFFFFF00&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Editor)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2000&pause=10000&color=000000&background=FFFFFF00&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ibrar+Zahid!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=10000&color=00A4FF&background=FFFFFF00&vCenter=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Editor)](https://git.io/typing-svg)
 
 ---
 
