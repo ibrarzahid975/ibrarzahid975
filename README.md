@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Ibrar! 👋  
-#### Frontend Developer | UI/UX Designer | Creative Editor  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00A4FF&background=FFFFFF00&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C+Creative+Editor)](https://git.io/typing-svg) 
 
 ---
 
